@@ -2,7 +2,7 @@
 
 #### Your name
 
-TODO
+Runjie Liao
 
 #### Your section leader's name
 
@@ -10,7 +10,7 @@ TODO
 
 #### Project title
 
-TODO
+Story Advernture Game
 
 ***
 
@@ -18,12 +18,12 @@ Short answers for the below questions suffice. If you want to alter your plan fo
 
 #### What have you done for your project so far?
 
-TODO
+We still creating about the story
 
 #### What have you not done for your project yet?
 
-TODO
+web design and the game code
 
 #### What problems, if any, have you encountered?
 
-TODO
+We haven't encounter it yet.
